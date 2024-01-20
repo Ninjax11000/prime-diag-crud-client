@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Blood Test",
+      "code": "BT001",
+      "price": 50.00,
+      "image": "https://i.ibb.co/KbJxzpC/blood1.jpg",
+      "deliveryTime": "1-2 days",
+      "details": "Basic blood test to assess overall health."
+    },
+    {
+      "name": "X-ray",
+      "code": "XR001",
+      "price": 80.00,
+      "image": "https://i.ibb.co/MGvHXLZ/xray1.jpg",
+      "deliveryTime": "2-3 days",
+      "details": "X-ray imaging for diagnosing bone and joint conditions."
+    },
+    {
+      "name": "MRI Scan",
+      "code": "MR001",
+      "price": 150.00,
+      "image": "https://i.ibb.co/2cpGF99/mri1.jpg",
+      "deliveryTime": "3-5 days",
+      "details": "Detailed imaging for soft tissues and organs."
+    },
+    {
+      "name": "Ultrasound",
+      "code": "US001",
+      "price": 60.00,
+      "image": "https://i.ibb.co/vc7TvPK/ultra1.jpg",
+      "deliveryTime": "1-2 days",
+      "details": "Non-invasive imaging for various body parts."
+    },
+    {
+      "name": "ECG",
+      "code": "ECG001",
+      "price": 40.00,
+      "image": "https://i.ibb.co/JpvFkGT/ecg1.jpg",
+      "deliveryTime": "1 day",
+      "details": "Electrocardiogram for heart health assessment."
+    },
+    {
+      "name": "CT Scan",
+      "code": "CT001",
+      "price": 120.00,
+      "image": "https://i.ibb.co/tc8dSkZ/ct-scan1.jpg",
+      "deliveryTime": "2-4 days",
+      "details": "Cross-sectional imaging for detailed views."
+    },
+    {
+      "name": "Urinalysis",
+      "code": "UA001",
+      "price": 25.00,
+      "image": "https://i.ibb.co/T0Nq5zb/urinology1.jpg",
+      "deliveryTime": "1 day",
+      "details": "Analysis of urine sample for health indicators."
+    },
+    {
+      "name": "Hemoglobin A1c",
+      "code": "HA001",
+      "price": 35.00,
+      "image": "https://i.ibb.co/fDD1c5s/himoglobin1.jpg",
+      "deliveryTime": "1 day",
+      "details": "Blood test for long-term blood sugar levels."
+    }
+    
+  ]
